@@ -7,7 +7,7 @@ public class MenuInicial {
 		
 	
 		System.out
-		.println("\n\nTRABALHO POO - ATIVIDADE 2");
+		.println("\n\nGestor Bancario");
 		System.out.println("\n                  ============================");
 		System.out.println("                  |1 - Criar Conta Corrente |");
 		System.out.println("                  |2 - Realizar Depósito    |");
